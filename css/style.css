@@ -1,7 +1,7 @@
 /* Website template by freewebsitetemplates.com */
 body {
 	
-	color: #000000;
+	background-color: black;
 	font-family: Verdana, Brush Script MT, sans-serif;
 	font-size: 14px;
 	margin: 0;
@@ -57,7 +57,7 @@ div.header form {
 div.header form input#search {
 	background: none;
 	border: 0;
-	color: #46494a;
+	color: #707476;
 	float: left;
 	font-size: 14px;
 	height: 25px;
@@ -114,10 +114,10 @@ div.body div:first-child div.header ul li a {
 }
 div.body div:first-child div.header ul li.current a {
 	background: url(../images/bg-menuselected.jpg) repeat-x;
-	color:#5fa3a3;
+	color:#e6ffff;
 }
 div.body div:first-child div.header ul li a:hover {
-	color: #e87da4;
+	color: #8e0034;
 }
 div.body div:first-child div.body {
 	background: none;
