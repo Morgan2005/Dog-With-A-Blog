@@ -269,7 +269,7 @@ div.body div div:first-child img {
 }
 div.body div div h3,
 div.body div div h4 {
-	color: #C2C4EB;
+	color: #333333;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
 	letter-spacing: 0.05em;
@@ -287,7 +287,7 @@ div.body div div h4:first-child {
 	padding: 7px 0 0;
 }
 div.body div div span {
-	color: #C2D8EB;
+	color: #333333;
 	display: block;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
