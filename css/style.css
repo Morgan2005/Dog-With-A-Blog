@@ -19,7 +19,7 @@ p {
 	line-height: 24px;
 }
 p a {
-	color: #6c5b37;
+	color: #6d4c85;
 }
 ul {
 	list-style: none;
@@ -57,7 +57,7 @@ div.header form {
 div.header form input#search {
 	background: none;
 	border: 0;
-	color: #707476;
+	color: #3a3c3d;
 	float: left;
 	font-size: 14px;
 	height: 25px;
@@ -114,10 +114,10 @@ div.body div:first-child div.header ul li a {
 }
 div.body div:first-child div.header ul li.current a {
 	background: url(../images/bg-menuselected.jpg) repeat-x;
-	color:#e6ffff;
+	color:#71a3a3;
 }
 div.body div:first-child div.header ul li a:hover {
-	color: #8e0034;
+	color: #71a3a3;
 }
 div.body div:first-child div.body {
 	background: none;
